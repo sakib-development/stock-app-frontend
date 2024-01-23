@@ -1,0 +1,10 @@
+.stockAppContainer {
+  min-width: 500px;
+
+  .stockTickerContainer {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: flex-start;
+    gap: 1rem;
+  }
+}
